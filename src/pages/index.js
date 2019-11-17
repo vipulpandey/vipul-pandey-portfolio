@@ -19,7 +19,7 @@ function renderFolio() {
             {desc}
             <span className="repolinks" key={'repo' + idx}><a key={'repoLink' + idx} href={repo}>Github Repo</a></span>
             
-            {live ? <span className="repolinks" key={'live' + idx}><a key={'liveLink' + idx} href={repo}>Check it live</a></span> : null }
+            {live ? <span className="repolinks" key={'live' + idx}><a key={'liveLink' + idx} href={live}>Check it live</a></span> : null }
 
 
             </div>

@@ -1,6 +1,6 @@
 ---
 title: 'How Artificial Intelligence is goint to disrupt Media ?'
-date:  '2019-11-17'
+date:  '2019-11-15'
 sinopsis: "Media News Media Industry"
 
 

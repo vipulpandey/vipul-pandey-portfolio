@@ -58,8 +58,8 @@ Fog Eddie would go layback daggers barreling backside board lefts. Pitted silky 
                 <img alt="GraphQl" className={aboutStyle.logo} src="./logos/graphql.svg" />
                 <img alt="React" className={aboutStyle.logo} src="./logos/react.svg" />
                 <img alt="nodeJs" className={aboutStyle.logo} src="./logos/nodejs-icon.svg" />
-                <img alt="Mongo" className={aboutStyle.logo} src="./logos/mongodb.png" />
-                <img alt="Sass" className={aboutStyle.logo} src="./logos/sass-1.svg" />
+                <img alt="Python" className={aboutStyle.logo} src="./logos/python-seeklogo.svg" />
+                <img alt="Flask" className={aboutStyle.logo} src="./logos/flask-seeklogo.com.svg" />
                 </div>
 
            

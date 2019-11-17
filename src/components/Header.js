@@ -31,10 +31,9 @@ const Header = () => {
                         <span className="attr">NLP</span>
                         </div>
                         <div className="icons">
-                        <a href='https://github.com/martin2844'><i className="fab fa-github"></i></a>
-                        <a href='https://twitter.com/codigoMate'><i className="fab fa-twitter"></i></a>
-                        <a href='https://dev.to/martin2844'><i className="fab fa-dev"></i></a>
-                        <a href='https://www.linkedin.com/in/chammah/'><i className="fab fa-linkedin"></i></a>
+                        
+                        <a href='https://twitter.com/statsmattersm'><i className="fab fa-twitter"></i></a>                        
+                        <a href='https://www.linkedin.com/in/vipul-pandey-9122b960/'><i className="fab fa-linkedin"></i></a>
                         <a href='https://youtube.com/codigoMate'><i className="fab fa-youtube"></i></a>
                         </div>
                         <span className="pages-link"><Link to="/">Portfolio</Link>

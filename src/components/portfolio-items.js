@@ -27,7 +27,7 @@ const portfolioItems = [
         idx: 3
     },
     {
-        title: 'Portfolio Item 4',
+        title: 'Data Visualizations',
         sinopsis: 'Its very minimalist, but that was the end goal',
         desc: 'This was inspired in Dinesh Pandiyan personal page',
         img: './portfolio/EJS.png',
@@ -36,7 +36,7 @@ const portfolioItems = [
         idx: 4
     },
     {
-        title: 'Portfolio Item 5',
+        title: 'Geolocation based Demo App',
         sinopsis: 'Please message me at twitter @codigoMate',
         desc: 'I really appriciate any messages',
         img: './portfolio/Mate.png',

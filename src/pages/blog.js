@@ -41,7 +41,7 @@ const Blog = () => {
 return (
     <Layout>
     
-        <h1 className="opener">blog</h1>
+        <h1 className="opener">BLOG</h1>
            {posts}
     </Layout>
 )

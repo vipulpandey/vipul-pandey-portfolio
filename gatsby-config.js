@@ -9,7 +9,7 @@ const path = require('path');
 module.exports = {
   siteMetadata: {
     title: 'Vipul Pandey',
-    author: 'Martin Chammah',
+    author: 'Vipul Pandey',
     siteUrl: `https://www.martinchammah.dev`
   },
   /* Your site config here */
