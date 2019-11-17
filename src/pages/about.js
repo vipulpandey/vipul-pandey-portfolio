@@ -23,7 +23,7 @@ const About = (props) => {
     console.log(query)
     return (
         <Layout>
-            <h2>Hello , my name is Developer</h2>
+            <h2>Hello , my name is Vipul Pandey</h2>
 
             <div className={aboutStyle.main}>
             
@@ -32,10 +32,10 @@ const About = (props) => {
                 <div className={aboutStyle.imagen}> <Img className={aboutStyle.img} fluid={props.data.file.childImageSharp.fluid} /></div>
                 <div className={aboutStyle.texto}>
 
-                <div className={aboutStyle.iconos}><i className="fas fa-map-marker-alt fa-sm"></i><p>Location, Country</p></div>
-            <div className={aboutStyle.iconos}><i className="fas fa-graduation-cap fa-sm"></i><p>University of life</p></div>
-            <div className={aboutStyle.iconos}><i className="fas fa-code fa-sm"></i><p>HTML, JS, CSS, noSQL</p></div>
-            <div className={aboutStyle.iconos}><i className="fas fa-language fa-sm"></i><p>English, Spanish, Portuguese and Latin</p></div>
+                <div className={aboutStyle.iconos}><i className="fas fa-map-marker-alt fa-sm"></i><p>Mumbai</p></div>
+            <div className={aboutStyle.iconos}><i className="fas fa-graduation-cap fa-sm"></i><p>Autodidactism</p></div>
+            <div className={aboutStyle.iconos}><i className="fas fa-code fa-sm"></i><p>Python, Keras, Pytorch, React</p></div>
+            <div className={aboutStyle.iconos}><i className="fas fa-language fa-sm"></i><p>English, Hindi</p></div>
             
 
 

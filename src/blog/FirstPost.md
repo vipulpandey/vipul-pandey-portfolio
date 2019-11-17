@@ -1,14 +1,14 @@
 ---
-title: 'First post'
-date:  '2019-10-01'
-sinopsis: "The first post, bla bla bla bla bla"
+title: 'How Artificial Intelligence is goint to disrupt Media ?'
+date:  '2019-11-17'
+sinopsis: "Media News Media Industry"
 
 
 ---
 
 
 
-This is the first post
+Understanding how AI is changing Media Indsutry
 
 ## Topics
 

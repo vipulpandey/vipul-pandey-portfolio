@@ -24,11 +24,11 @@ const Header = () => {
                 <div className="header-main">
                         <div className="dev">
                         <h1>{data.site.siteMetadata.title}</h1>
-                        <span className="attr">Web designer</span>
+                        <span className="attr">Computer Vision</span>
                         <span className="dot">•</span>
-                        <span className="attr">Architect</span>
+                        <span className="attr">Speech</span>
                         <span className="dot">•</span>
-                        <span className="attr">Mechanic</span>
+                        <span className="attr">NLP</span>
                         </div>
                         <div className="icons">
                         <a href='https://github.com/martin2844'><i className="fab fa-github"></i></a>
