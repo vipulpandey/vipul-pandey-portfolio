@@ -6,7 +6,7 @@ header_image : /images/about.png
 
 ---
 
-![header_image](https://images.unsplash.com/photo-1511640349845-10803165ce8f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=80)
+<!-- ![header_image](https://images.unsplash.com/photo-1511640349845-10803165ce8f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=80) -->
 
 ## **About**
 
@@ -48,7 +48,7 @@ header_image : /images/about.png
 
 + **Training Method** : Random
 
-  [Checkout the Google Colab link]() 
+  [Checkout the Google Colab link](https://colab.research.google.com/drive/1x9VJs45z2e1jMc9RHwGiJfvrbXLeunzu) 
 
 ### Data generation (1 instance Data batch)
 
