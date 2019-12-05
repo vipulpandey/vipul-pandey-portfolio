@@ -10,7 +10,7 @@ const portfolioItems = [
     },
     {
         title: 'News Summarizer using Abstractive Method',
-        sinopsis: 'This is just a quick description. Open up for more details',
+        sinopsis: 'LSTM, BERT',
         desc: 'This is just a javascript array of objects. Gatsby makes the JSX elements to show up',
         img: './portfolio/bitcoin.png',
         live: 'bitcoinhoy.com.ar',
@@ -19,7 +19,7 @@ const portfolioItems = [
     },
     {
         title: 'Facial Recognition Using OpenCV',
-        sinopsis: 'It also includes a Blog section, with the createPages Api',
+        sinopsis: 'Facecount Application',
         desc: 'Write posts directly in markdown. Thanks to plugins, and the createPage Api, gatbsy generates blog posts automatically',
         img: './portfolio/ejs-blog.png',
         repo: 'https://github.com/martin2844/ejs-blog',
@@ -28,20 +28,29 @@ const portfolioItems = [
     },
     {
         title: 'Data Visualizations',
-        sinopsis: 'Its very minimalist, but that was the end goal',
+        sinopsis: 'Some of the samples are in the instagram page',
         desc: 'This was inspired in Dinesh Pandiyan personal page',
         img: './portfolio/EJS.png',
         repo: 'https://github.com/martin2844',
         live: 'https://my-ejs-todo-list.herokuapp.com',
         idx: 4
     },
+    // {
+    //     title: 'Geolocation based Demo App',
+    //     sinopsis: 'Please message me at twitter @codigoMate',
+    //     desc: 'I really appriciate any messages',
+    //     img: './portfolio/Mate.png',
+    //     repo: 'https://github.com/martin2844',
+    //     live: 'https://statsmatter.netlify.com/',
+    //     idx: 5
+    // }
     {
-        title: 'Geolocation based Demo App',
-        sinopsis: 'Please message me at twitter @codigoMate',
-        desc: 'I really appriciate any messages',
+        title: 'Artificial Intelligence Powered Magazine',
+        sinopsis: 'An AI Magazine for AI related News, created by AI !',
+        desc: '',
         img: './portfolio/Mate.png',
-        repo: 'https://github.com/martin2844',
-        live: 'https://codigomate.com',
+        repo: '',
+        live: 'https://statsmatter.netlify.com/',
         idx: 5
     }
 

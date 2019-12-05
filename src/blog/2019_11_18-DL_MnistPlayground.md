@@ -1,5 +1,5 @@
 ---
-title: 'How long it will take,to train MNIST like dataset,all by myself ?'
+title: 'Time to train - Handwritten digit recognizer ( MNIST Dataset )'
 date:  '2019-11-17'
 sinopsis: "Digit Recognizer using self created data"
 header_image : /images/about.png
@@ -33,20 +33,21 @@ header_image : /images/about.png
 
 + **Training Method** : Random
 
++ **Time to train(TTT)** : No training recquired
+
   [Checkout the Google Colab link](https://colab.research.google.com/drive/1EWqEBnhAXv1J0xZodvCGwTC3OP79KBV_) 
 
 ### MNIST recognition using Dense method
 
-+ **About** : 
-
-
-
++ **About** : Using Sequential model of densely connected neural network layers.
 
 + **Input** : Image format
 
 + **Output** : number between 0-9
 
-+ **Training Method** : Random
++ **Training Method** : Dense Neural Network Layers
+
++ **Time to train(TTT)** : 27.15436100959778 Seconds
 
   [Checkout the Google Colab link](https://colab.research.google.com/drive/1x9VJs45z2e1jMc9RHwGiJfvrbXLeunzu) 
 
