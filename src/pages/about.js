@@ -40,7 +40,7 @@ const About = props => {
           <div className={aboutStyle.texto}>
             <div className={aboutStyle.iconos}>
               <i className="fas fa-map-marker-alt fa-sm"></i>
-              <p>Mumbai</p>
+              <p>India</p>
             </div>
             <div className={aboutStyle.iconos}>
               <i className="fas fa-graduation-cap fa-sm"></i>
@@ -48,11 +48,11 @@ const About = props => {
             </div>
             <div className={aboutStyle.iconos}>
               <i className="fas fa-code fa-sm"></i>
-              <p>Python, Keras, Pytorch, React</p>
+              <p>Python, R, OpenCV, Keras, Pytorch, React, Flask</p>
             </div>
             <div className={aboutStyle.iconos}>
               <i className="fas fa-language fa-sm"></i>
-              <p>English, Hindi</p>
+              <p>Necessary-tech-skills to create AI prototype  </p>
             </div>
           </div>
         </div>

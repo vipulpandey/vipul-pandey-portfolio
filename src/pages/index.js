@@ -36,7 +36,7 @@ const Index = () => {
     return (
         <Layout>
             <h1 className="opener">I like working with Artificial Intelligence centric projects.</h1>
-            <p className="subtitle">These are a few of my projects. Open up for repo and live version! </p>
+            <p className="subtitle">These are a few of my projects. You can see video walkthrough of some of the projects! </p>
             
             {renderFolio()}
         </Layout>
